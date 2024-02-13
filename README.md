@@ -1,1 +1,4 @@
-#Simple calculator made with AndroidStudio using Kotlin 
+**Simple calculator made with AndroidStudio using Kotlin**
+
+delete button and equals
+operations (+,-,*,/)
